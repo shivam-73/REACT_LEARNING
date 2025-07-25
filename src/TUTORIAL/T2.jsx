@@ -25,3 +25,21 @@ export function Settings(){
 export default Login;
 
 export const userKey = "agfsjgiau14q";
+
+
+
+/*
+App.jsx
+import Login,{ Profile ,Settings, userKey} from './TUTORIAL/T2'
+function App(){
+  return (
+    <>
+    <Profile/>
+    <Settings/>
+    <Login/>
+    <h1>{userKey}</h1>
+    </>
+  )
+}
+
+*/
