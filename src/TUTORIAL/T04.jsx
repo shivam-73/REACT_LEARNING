@@ -17,3 +17,17 @@ function ToDo(){
 }
 
 export default ToDo;
+
+/*
+import ToDo from './TUTORIAL/T04'
+function App(){
+  return(
+    <div>
+      <h1>Exercise JSX</h1>
+      <ToDo/>
+    </div>
+  )
+}
+
+export default App; 
+*/
