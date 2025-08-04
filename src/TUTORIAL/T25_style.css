@@ -4,7 +4,7 @@
 
 .user-card{
     width: 200px;
-    boxShadow: 3px 2px 4px 1px grey;
+    box-shadow: 3px 2px 4px 1px grey;
     margin: 10px;
     border: 1px solid black;
 }
