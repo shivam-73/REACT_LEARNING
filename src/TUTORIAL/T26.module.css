@@ -1,0 +1,44 @@
+.heading{
+    color: red;
+}
+
+img{
+    width:200px;
+}
+
+.card{
+    border: 1px solid black;
+    width: 200px;
+    box-shadow: 3px 2px 4px 1px grey; 
+    margin:10px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.textwrap{
+    padding: 10px;
+}
+
+/* import style from './T26.module.css'
+ function UserProfile() {
+    return (
+            
+        <div className={style.container}>
+            <div className={style.card}>
+                <div>
+                    <img src="https://www.w3schools.com/howto/img_avatar.png" alt="" />
+                </div>
+                <div className={style.textwrap}>
+                    <h4>Shivam Kumar</h4>
+                    <p>Software developer</p>
+                </div>
+            </div>
+
+        </div>
+    )
+}
+
+export default UserProfile; */
