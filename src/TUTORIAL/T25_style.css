@@ -1,0 +1,121 @@
+.heading{
+    color: green;
+}
+
+.user-card{
+    width: 200px;
+    boxShadow: 3px 2px 4px 1px grey;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+img{
+    width: 200px;
+}
+
+.text-wrap{
+    padding: 10px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* 
+import './TUTORIAL/T25_style.css'
+function App() {
+
+  return (
+    <>
+      <h1 className='heading'>External Style</h1>
+
+      <div className="container">
+
+        <div className='user-card'>
+          <div>
+            <img src="https://www.w3schools.com/howto/img_avatar.png" alt="" />
+          </div>
+          <div className='text-wrap'>
+            <h4>Shivam Kumar</h4>
+            <p>Software developer</p>
+          </div>
+        </div>
+
+        <div className='user-card'>
+          <div>
+            <img src="https://www.w3schools.com/howto/img_avatar.png" alt="" />
+          </div>
+          <div className='text-wrap'>
+            <h4>Shivam Kumar</h4>
+            <p>Software developer</p>
+          </div>
+        </div>
+
+        <div className='user-card'>
+          <div>
+            <img src="https://www.w3schools.com/howto/img_avatar.png" alt="" />
+          </div>
+          <div className='text-wrap'>
+            <h4>Shivam Kumar</h4>
+            <p>Software developer</p>
+          </div>
+        </div>
+
+        <div className='user-card'>
+          <div>
+            <img src="https://www.w3schools.com/howto/img_avatar.png" alt="" />
+          </div>
+          <div className='text-wrap'>
+            <h4>Shivam Kumar</h4>
+            <p>Software developer</p>
+          </div>
+        </div>
+
+        <div className='user-card'>
+          <div>
+            <img src="https://www.w3schools.com/howto/img_avatar.png" alt="" />
+          </div>
+          <div className='text-wrap'>
+            <h4>Shivam Kumar</h4>
+            <p>Software developer</p>
+          </div>
+        </div>
+
+        <div className='user-card'>
+          <div>
+            <img src="https://www.w3schools.com/howto/img_avatar.png" alt="" />
+          </div>
+          <div className='text-wrap'>
+            <h4>Shivam Kumar</h4>
+            <p>Software developer</p>
+          </div>
+        </div>
+
+        <div className='user-card'>
+          <div>
+            <img src="https://www.w3schools.com/howto/img_avatar.png" alt="" />
+          </div>
+          <div className='text-wrap'>
+            <h4>Shivam Kumar</h4>
+            <p>Software developer</p>
+          </div>
+        </div>
+
+        <div className='user-card'>
+          <div>
+            <img src="https://www.w3schools.com/howto/img_avatar.png" alt="" />
+          </div>
+          <div className='text-wrap'>
+            <h4>Shivam Kumar</h4>
+            <p>Software developer</p>
+          </div>
+        </div>
+
+      </div>
+    </>
+
+  )
+}
+
+export default App;  */
