@@ -22,3 +22,25 @@ export default function NavBar(){
         </div>
     )
 }
+
+
+// import NavBar from "./TUTORIAL/T47";
+// import { Routes ,Route} from "react-router";
+// import About from "./TUTORIAL/T46_1";
+// import Login from "./TUTORIAL/T46_2"
+// function App() {
+
+//   return (
+//     <>
+//       <NavBar />
+
+//       <Routes>
+//         <Route path="/" element={<h1>Home Page</h1>} />
+//         <Route path="/about" element={<About />} />
+//         <Route path="/login" element={<Login />} />
+//       </Routes>
+//     </>
+//   )
+// }
+
+// export default App;
