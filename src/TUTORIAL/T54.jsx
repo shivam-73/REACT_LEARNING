@@ -10,7 +10,7 @@ export default function NavBar(){
             <div>
                 <ul>
                     <li>
-                        <NavLink className="NavLink" to='/'>Home</NavLink>
+                        <NavLink className={({isActive})=>isActive? 'cutom-active':'link'} to='/'>Home</NavLink>
                     </li>
                     <li>
                         <NavLink className="NavLink" to='/in/user/about'>About</NavLink>
