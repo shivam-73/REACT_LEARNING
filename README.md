@@ -58,9 +58,11 @@ My-React-Learning/
 │   └── ...
 └── README.md
 ```
+---
 ## 🌟 Next Steps
 
 - 🔄 Dive deeper into **Redux / Context optimization**  
 - ⚡ Explore **React Query / TanStack** for advanced API handling**  
 - 🏗️ Build a **major project** using all concepts learned so far  
 
+---
